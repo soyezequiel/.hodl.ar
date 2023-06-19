@@ -10,6 +10,10 @@ username: "elezequiel" # < TU_USUARIO@hodl.ar
 # nostr: # Sin el # adelante
 #   npub: "npub19fu5u67ayksr6rsupktr3uz8k584gz37pxtrktrxwqzkuzuhlg6qrtlfqw" # Entre comillas dobles
 
+# NOSTR Settings
+nostr: # Sin el # adelante
+  npub: "npub19fu5u67ayksr6rsupktr3uz8k584gz37pxtrktrxwqzkuzuhlg6qrtlfqw" # Entre comillas dobles
+
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
