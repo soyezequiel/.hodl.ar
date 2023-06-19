@@ -7,7 +7,7 @@ version: 0.3.5 # NO TOCAR
 username: "elezequiel" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
- nostr: # Sin el # adelante
+ #nostr: # Sin el # adelante
    npub: "npub19fu5u67ayksr6rsupktr3uz8k584gz37pxtrktrxwqzkuzuhlg6qrtlfqw" # Entre comillas dobles
 
 # Configuración Global
